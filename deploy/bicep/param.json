@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {          
       "suffix": {
-        "value": "<suffix>"
+        "value": "synroar"
       },
       "sqlAdministratorLogin":{
-        "value": "<your admin>"
+        "value": "roaradmin"
       },
       "sqlAdministratorLoginPassword":{
-        "value": "<your password>"
+        "value": "4B-we?ex#0fwRdc)"
       },
       "userObjectId":{
-        "value": "<your user objid>"
+        "value": "d0dcbe8c-9f1b-45e9-b66f-775fc5fb8e47"
       },
       "dataLakeUrlFormat":{
         "value": "https://{0}.dfs.core.windows.net"
